@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Ditto"
+date:   2025-11-13 12:39:26 +0100
+categories: jekyll update
+---
+Ditto es un Pokémon de tipo normal introducido en la primera generación. Se destaca por poderse transformar en cualquier Pokémon.
+En su forma normal, Ditto toma la forma de una figura amorfa color violeta. Destacando su sonrisa y sus pequeños ojos que mantiene aunque se transforme.
+
+Ditto es el maestro de la transformación. Puede reorganizar su estructura celular en la de cualquier objeto, persona o Pokémon cercano a él, para verse como tal y poder incluso usar sus movimientos. La calidad de la transformación varía entre cada ejemplar. Si intenta transformarse en algo que no tenga presente, puede usar los datos de su memoria, aunque estos no son perfectos y habrá detalles que se le escapen. Cuando un Ditto ríe o se relaja, no puede mantener la transformación. Gracias a esta habilidad, suele llevarse bien con cualquier especie de Pokémon, aunque no tan bien con otros ejemplares de su especie; si se llegaran a enfrentar dos Ditto tratarán de actuar lo más rápido posible para copiar lo que hace el otro.
+
+Generalmente, se convierte en una piedra antes de dormir para evitar ser atacado, pero en raras ocasiones se lo puede ver dormir transformado en otros Pokémon. Al transformarse en humanos, no es capaz de comunicarse con el idioma de los humanos, como pasó con los cinco bandittos de Pokémon Ultrasol y Pokémon Ultraluna.
+
+![ditto]({{"/assets/img/ditto.jpg"| relative_url}})
+

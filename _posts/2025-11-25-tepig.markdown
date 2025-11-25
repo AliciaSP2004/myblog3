@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Tepig"
+date:   2025-11-13 12:39:26 +0100
+categories: jekyll update
+---
+Tepig es un Pokémon de tipo fuego introducido en la quinta generación. Es uno de los tres Pokémon iniciales que pueden elegir los entrenadores que empiezan su aventura en la región de Teselia, junto a Snivy y Oshawott.   
+
+Tepig está basado en un cerdo. Tiene ojos grandes, la cabeza de color negro y amarillo, y grandes orejas. Su cola tiene forma de espiral con una esfera roja al final. En la parte trasera de su lomo, su pelaje es negro, mientras que el resto de su cuerpo es anaranjado y en sus patas delanteras tiene unas pezuñas negras. En la parte negra de su pelo se forma una figura como la del calzón de un luchador que le envuelve las patas traseras y contrasta la parte naranja.
+
+Usa sus dos fosas nasales para expulsar llamaradas y lanzar bolas de fuego que se generan desde el interior de su cuerpo. Al lanzar poderosos ataques de fuego, su cola comienza a iluminarse. A pesar de su apariencia, se trata de un Pokémon muy ágil, usa esa agilidad sorprende para evadir los ataques enemigos y manejar el combate. Es un glotón insaciable, asa bayas y otros alimentos con sus llamas, para comérselos bien tostados. A veces se emociona demasiado y termina churruscando las bayas que intenta asar. Busca y encuentra sus alimentos sin problemas, haciendo uso de su agudo sentido del olfato. Cuando se resfría, las llamas que expulsa de su nariz se convierten en humo negro.
+
+![tepig]({{"/assets/img/tepig.png"| relative_url}})
+

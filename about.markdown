@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: ¿Que es un pokemon?
 permalink: /about/
 ---
+Los Pokémon son criaturas de todo tipo de formas y tamaños que viven junto a los humanos. Quienes se conocen como "Entrenadores Pokémon" forjan una amistad duradera con sus compañeros Pokémon y, como equipo, viajan en busca de aventuras, entrenan para mejorar sus habilidades y combaten en competiciones amistosas. En sus viajes, los Pokémon crecen, ganan experiencia y, en ocasiones, evolucionan a un Pokémon más fuerte. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Pokemons]({{"/assets/img/pokemons.jpg"| relative_url}})
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
