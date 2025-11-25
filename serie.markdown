@@ -2,8 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 title: "Serie de Televisión" 
+permalink: /about/
 ---
 Ash Ketchum es un joven de Pueblo Paleta cuyo sueño es convertirse en Maestro Pokémon. A los 10 años recibe a Pikachu como su Pokémon inicial, tras llegar tarde al laboratorio del Profesor Oak. Aunque Pikachu al principio no confiaba en él, su amistad nace después de que Ash lo defienda de un ataque de Spearow, demostrando su compromiso.
 
